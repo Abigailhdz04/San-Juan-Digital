@@ -1,0 +1,29 @@
+/* styles.css - San Juan Digital */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+#hero {
+    min-height: 200px;
+}
+
+#catalogo {
+    min-height: 200px;
+}
+
+footer {
+    min-height: 100px;
+}
